@@ -7,8 +7,10 @@ Laravel docker with mysql + nginx + npm + php
 Use the docker-compose command 
 
 ```docker
+mkdir mysql
 docker-compose up -d --build
 ```
+
 
 ## Usage
 
